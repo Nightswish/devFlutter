@@ -30,7 +30,7 @@ jobs:
           git status
           # 5. change your repository
           git remote add origin https://$@github.com/Nightswish/devflutter.git 
-          git checkout -b gh-pages
+          git checkout -b dev
           git add --all
           git commit -m "update"
-          git push origin gh-pages -f
+          git push origin dev -f
