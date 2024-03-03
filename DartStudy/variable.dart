@@ -7,4 +7,8 @@ void main() {
   var name2 = 'Idle';
 
   print(name2);
+
+  name = 'not today';
+
+  print(name);
 }
