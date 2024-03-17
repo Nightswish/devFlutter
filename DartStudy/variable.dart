@@ -1,5 +1,5 @@
 void main() {
-  // variable
+  // variable String
   var name = 'Dart Study';
 
   print(name);
